@@ -20,7 +20,7 @@
 
 
 <p>
-   <img width="300" src="https://github.com/pinkpipe/djangoJSONTEST/json_rpc/path/img/img_test.png">
+   <img width="300" src="https://github.com/pinkpipe/djangoJSON_RPC_TEST/blob/main/json_rpc/path/img/img_test.png">
 </p>
 
 
