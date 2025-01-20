@@ -18,12 +18,12 @@
     1. Классовое представление функции, внутри которого достаются данные со страницы **HTML**, создается объект **JSONRPCClient** и отправляется запрос
    2. Также все внутри блока **try**/**except**, отлавливаем ошибки и выводим их
 
-
+**Результат:**
 <p>
    <img width="700" src="https://github.com/pinkpipe/djangoJSON_RPC_TEST/blob/main/json_rpc/path/img/img_test.png">
 </p>
 
-
+**Ошибка:**
 <p>
    <img width="700" src="https://github.com/pinkpipe/djangoJSON_RPC_TEST/blob/main/json_rpc/path/img/img_failed.png">
 </p>
