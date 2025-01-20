@@ -24,6 +24,11 @@
 </p>
 
 
+<p>
+   <img width="700" src="https://github.com/pinkpipe/djangoJSON_RPC_TEST/blob/main/json_rpc/path/img/img_failed.png">
+</p>
+
+
 # ТРУДНОСТИ
 
 Во время решения этого тестового задания возникла проблема:
